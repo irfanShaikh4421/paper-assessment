@@ -1,0 +1,22 @@
+ TODO :-
+
+Rest api
+	/train  ++ (done)
+		=> Question corpus
+		=> Answer corpus
+		O> Trained / Error
+		G> Trained:status
+
+	/assess (done )
+		=> Question
+		=> Answer
+		O> JSON Result
+		R> Trained?
+
+	/classify-question (done)
+		=> Question 
+		O> Classified Question
+		R> Trained?
+	
+	/getQuestions (done)
+	/getQuestion/:id (done)
